@@ -1,0 +1,18 @@
+# Virtual environment (jangan di-upload)
+tugas7/
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Hasil antara dari opsi --debug
+debug/
+
+# File sistem / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
